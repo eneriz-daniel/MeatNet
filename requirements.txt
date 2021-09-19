@@ -1,0 +1,10 @@
+torch==1.9.0+cu102
+gdown==3.13.0
+matplotlib==3.3.4
+scipy==1.5.4
+numpy==1.16.4
+parse==1.6.5
+pandas==1.2.1
+ipython==7.27.0
+openpyxl==3.0.7
+scikit_learn==0.24.2
