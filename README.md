@@ -3,7 +3,11 @@
 This repository contains the code used in the paper entitled **An FPGA-based Machine Learning tool for in-situ food quality tracking using sensor fusion** from MDPI *Biosensors*.
 
 If you find it useful, please consider cite us:
-CITATION
+
+- Enériz, D.; Medrano, N.; Calvo, B. An FPGA-Based Machine Learning Tool for In-Situ Food Quality Tracking Using Sensor Fusion. *Biosensors* **2021**, *11*, 366. [https://doi.org/10.3390/bios11100366](https://doi.org/10.3390/bios11100366)
+
+- ``` @article{En_riz_2021, title={An FPGA-Based Machine Learning Tool for In-Situ Food Quality Tracking Using Sensor Fusion}, volume={11}, ISSN={2079-6374}, url={http://dx.doi.org/10.3390/bios11100366}, DOI={10.3390/bios11100366}, number={10}, journal={Biosensors}, publisher={MDPI AG}, author={Enériz, Daniel and Medrano, Nicolas and Calvo, Belen}, year={2021}, month={Sep}, pages={366}} ```
+
 
 ![Developed system's scheme](img/equema-fondo-blanco.svg)
 
